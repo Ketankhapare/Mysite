@@ -1,0 +1,64 @@
+
+*{
+   box-sizing : border-box;
+  
+ }
+ 
+ 
+ .coitainer-12 {
+	 background-color : #EEF0F4;
+	 
+	 font-family: 'Crimson Text', serif;
+ }
+ 
+ .banner{
+	 
+	 border-style: solid;
+	 border-color: #40B0FE;
+	 padding-left: 40px;
+	 height: 90px;
+ }
+ 
+ .menu{
+	border-style:solid;
+	text-align: center;
+	font-size: 25px;
+	border-radius:7px;
+	background-color: #4085FE ;
+ }
+ 
+ .eproduct {
+	 border-style:solid;
+	 margin-top: 80px;
+	 height:320px;
+ }
+ 
+  
+ 
+ .eprice{
+	 border-style : solid;
+	 background-color : #F72E08;
+	 font-weight: bold;
+	 color: white;
+ }
+ 
+ .btn-eproduct {
+	 margin-left: 60px;
+	 border-width: 0px;
+	 background-color: #2F8D14;
+	 color: white;
+	 border-radius: 3px;
+	 font-weight: bold;
+	 height:30px;
+	 weight: 60px;
+ }
+ 
+ .menu a{
+	 text-decoration: none;
+	 color: white;
+	 font-weight: bold;
+ }
+ 
+ .cover{
+	 margin-top: 20px;
+ }
